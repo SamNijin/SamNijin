@@ -1,4 +1,4 @@
-[![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif)]
+[![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm SAM NIJIN S</h1>
 <h3 align="center">A young intense developer from Tamil Nadu, India. Doing 3rd year BE in CSE</h3>
