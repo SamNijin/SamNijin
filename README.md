@@ -1,4 +1,4 @@
-![logo](https://github.com/SamNijin/SamNijin/blob/main/logo_white.png?raw=true)
+<!-- ![logo](https://github.com/SamNijin/SamNijin/blob/main/logo_white.png?raw=true) -->
 
 <h1 align="center">Hi 👋, I'm SAM NIJIN S</h1>
 <h3 align="center">A young intense developer from Tamil Nadu, India. Doing 3rd year BE in CSE</h3>
