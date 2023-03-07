@@ -36,7 +36,7 @@
 <h3 align="left">Support:</h3><br>
 <a href="https://www.buymeacoffee.com/samnijin56v"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samnijin56v" /></a><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samnijin&show_icons=true&locale=en&layout=compact" alt="samnijin" /></p>
+<p margin="20px 0 0 0"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samnijin&show_icons=true&locale=en&layout=compact" alt="samnijin" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samnijin&show_icons=true&locale=en" alt="samnijin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samnijin&" alt="samnijin" /></p>
