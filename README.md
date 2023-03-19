@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/SamNijin/SamNijin/blob/main/logo_white.png?raw=true) -->
+![logo](https://github.com/SamNijin/SamNijin/blob/main/Sam-LinkdIn%20banner.png)
 
 <h1 align="center">Hey there 👋, am Sam Nijin S</h1>
 <h3 align="center">Data Analyst / React Developer</h3>
