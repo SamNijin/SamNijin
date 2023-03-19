@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/SamNijin/SamNijin/blob/main/logo_white.png?raw=true) -->
 
-<h1 align="center">Hey there 👋, I'm Sam Nijin S</h1>
+<h1 align="center">Hey there 👋, am Sam Nijin S</h1>
 <h3 align="center">Data Analyst / React Developer</h3>
 <!-- <h5 align="center">A young intense developer from Tamil Nadu, India. Doing 3rd year BE in CSE</h5> -->
 <h5 align="center">Entry level Data Scientist | Currently doing BE in Computer Science and Engineering | Interested much on IoT to make things autonomous</h5>
