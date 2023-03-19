@@ -1,12 +1,16 @@
 <!-- ![logo](https://github.com/SamNijin/SamNijin/blob/main/logo_white.png?raw=true) -->
 
 <h1 align="center">Hi 👋, I'm SAM NIJIN S</h1>
-<h3 align="center">A young intense developer from Tamil Nadu, India. Doing 3rd year BE in CSE</h3>
+<h3 align="center">Data Analyst / React Developer</h3>
+<!-- <h5 align="center">A young intense developer from Tamil Nadu, India. Doing 3rd year BE in CSE</h5> -->
+<h5 align="center">Entry level Data Scientist | Currently doing BE in Computer Science and Engineering | Interested much on IoT to make things autonomous</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samnijin&label=Profile%20views&color=0e75b6&style=flat" alt="samnijin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samnijin" alt="samnijin" /></a> </p>
+
+### About Me
 
 - 🔭 I’m currently working on **Indian Sign Language Interpreter for converting ISL to Speech Language**
 
@@ -113,14 +117,14 @@
   </a>
 </p>
 <p align="left">
-  <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sam Nijin GitHub stats" width="480px"  align="left"/></a>
+  <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin" alt="Sam Nijin GitHub stats" width="480px"  align="left"/></a>
   </p>
 <p align="left">
-<a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="480px" align="left"/></a></p>
+<a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="480px" align="left"/></a></p>
 
 <p align="left" style="  margin-inline: 35px;">
-  <a href="https://github.com/SamNijin" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNijin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" margin-top="10px" height="400px"/></a>
+  <a href="https://github.com/SamNijin" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNijin&langs_count=10&title_color=0891b2&text_color=#000000&icon_color=0891b2&" alt="Top Languages" margin-top="10px" height="400px"/></a>
   </p>
 
-<h3 align="left">Support:</h3><br>
+<h3 align="left">Support Me</h3><br>
 <a href="https://www.buymeacoffee.com/samnijin56v"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samnijin56v" /></a><br><br>
