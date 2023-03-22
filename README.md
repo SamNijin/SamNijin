@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python, React, MySQL, Opencv-Python, Pandas, SeaBorn, Redux, Hadoop, Unreal Engine, Blender**
 
-- 📫 Contact me on **samnijin.official@gmail.com** / **samnijin@outlook.com**
+- 📫 Contact me on **samnijin.official@gmail.com** | **samnijin@outlook.com**
 
 - ⚡ Fact about me **Intensive Learner to inherit new skills**
 
