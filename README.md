@@ -23,12 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samnijins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sam Nijin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sam-nijin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam nijin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21349615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21349615" height="30" width="40" /></a>
-<a href="https://kaggle.com/samnijin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samnijin" height="30" width="40" /></a>
-<a href="https://instagram.com/samnijin_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samnijin_s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samnijin562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samnijin562" height="30" width="40" /></a>
+  <a href="https://twitter.com/samnijins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sam Nijin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sam-nijin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam nijin" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/21349615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21349615" height="30" width="40" /></a>
+  <a href="https://kaggle.com/samnijin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samnijin" height="30" width="40" /></a>
+  <a href="https://instagram.com/samnijin_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samnijin_s" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/samnijin562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samnijin562" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
