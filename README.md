@@ -1,6 +1,6 @@
 ![banner](https://github.com/SamNijin/SamNijin/blob/main/Sam-github%20banner.png)
 
-<h1 align="center">Hey there 👋, am Sam Nijin S</h1>
+<h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
 <h3 align="center">Data Analyst | React Developer</h3>
 <h5 align="center">Entry level Data Scientist | Currently doing BE in Computer Science and Engineering | Interested much on Image Processing and IoT to make things autonomous</h5>
 
