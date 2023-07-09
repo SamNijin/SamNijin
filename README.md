@@ -11,11 +11,11 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **Indian Sign Language Interpreter for converting ISL to Speech Language**
+- 🔭 I’m currently working on **Covid Pneumonia Diagnosis of Lungs CT Scans using Transfer Learning and Ensemble Techniques**
 
-- 🌱 I’m currently learning **React, Machine Learning**
+- 🌱 I’m currently learning **Tableau**
 
-- 💬 Ask me about **Python, React, MySQL, Opencv-Python, Pandas, SeaBorn, Redux, Hadoop, Unreal Engine, Blender**
+- 💬 Ask me about **Python, React, MySQL, Opencv-Python, Pandas, SeaBorn, Machine Leaning, CNN, Data Analytics**
 
 - 📫 Contact me on **samnijin.official@gmail.com** | **samnijin@outlook.com**
 
