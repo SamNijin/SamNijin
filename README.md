@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Covid Pneumonia Diagnosis of Lungs CT Scans using Transfer Learning and Ensemble Techniques**
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Power BI**
 
 - 💬 Ask me about **Python, React, MySQL, Opencv-Python, Pandas, SeaBorn, Machine Leaning, CNN, Data Analytics**
 
