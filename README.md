@@ -1,8 +1,8 @@
 ![banner](https://github.com/SamNijin/SamNijin/blob/main/Sam-github%20banner.png)
 
 <h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
-<h3 align="center">Data Analyst | React Developer</h3>
-<h5 align="center">Entry level Data Scientist | Currently doing BE in Computer Science and Engineering | Interested much on Image Processing and IoT to make things autonomous</h5>
+<h3 align="center">Data Analytics | Data Science Trainee at MTE </h3>
+<h5 align="center">Dream to be Data Scientist | Final year CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samnijin&label=Profile%20views&color=0e75b6&style=flat" alt="samnijin" /> </p>
