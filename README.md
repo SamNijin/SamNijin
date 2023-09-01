@@ -1,7 +1,7 @@
 ![banner](https://github.com/SamNijin/SamNijin/blob/main/Sam-github%20banner.png)
 
 <h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
-<h3 align="center">Data Analytics | Deep Learning Intern @iNeuron.ai </h3>
+<h3 align="center">Data Analytics | Artificial Intelligence Research Intern @Zetpeak </h3>
 <h5 align="center">Aspiring Artificial Intelligence Research Scientist | Researcher | CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
 
 
