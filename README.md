@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
 <h3 align="center">Data Analytics | Artificial Intelligence Research Intern @Zetpeak </h3>
-<h5 align="center">Aspiring Artificial Intelligence Research Scientist | Researcher | CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
+<h5 align="center">Aspiring Artificial Intelligence Research Scientist | Budding Researcher | CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samnijin&label=Profile%20views&color=0e75b6&style=flat" alt="samnijin" /> </p>
