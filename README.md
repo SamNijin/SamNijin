@@ -118,12 +118,11 @@
 <p align="left">
 <!--   <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin" alt="Sam Nijin GitHub stats" width="480px"  align="left"/></a> -->
   </p>
-<p align="left">
+<p align="left" width="100%">
 <a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="480px" align="left"/></a></p>
-<br><br>
-<p align="left" style="  margin-inline: 35px;">
+<!-- <p align="left" style="  margin-inline: 35px;">
   <a href="https://github.com/SamNijin" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNijin&langs_count=10&title_color=0891b2&text_color=#000000&icon_color=0891b2&" alt="Top Languages" margin-top="10px" height="400px"/></a>
-  </p>
+  </p> -->
 
 <h3 align="left">Support Me</h3><br>
 <a href="https://www.buymeacoffee.com/samnijin56v"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samnijin56v" /></a><br><br>
