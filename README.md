@@ -1,8 +1,8 @@
 ![banner](https://github.com/SamNijin/SamNijin/blob/main/Sam-github%20banner.png)
 
 <h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
-<h3 align="center">Data Analytics | Artificial Intelligence Research Intern @Zetpeak </h3>
-<h5 align="center">Aspiring Artificial Intelligence Research Scientist | Budding Researcher | CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
+<h3 align="center">Data Analytics | Deep Learning Intern @iNeuron.ai </h3>
+<h5 align="center">Aspiring Artificial Intelligence Research Scientist | Researcher | CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samnijin&label=Profile%20views&color=0e75b6&style=flat" alt="samnijin" /> </p>
@@ -12,10 +12,10 @@
 ### About Me
 
 - 🔭 I’m currently working on **Covid Pneumonia Diagnosis of Lungs CT Scans using Transfer Learning and Ensemble Techniques**
-<!--
-- 🌱 I’m currently learning **Django** -->
 
-- 💬 Ask me about **Python, SQL, Opencv-Python, Pandas, SeaBorn, Machine Leaning, CNN, Data Analytics**
+- 🌱 I’m currently learning **Power BI**
+
+- 💬 Ask me about **Python, React, MySQL, Opencv-Python, Pandas, SeaBorn, Machine Leaning, CNN, Data Analytics**
 
 - 📫 Contact me on **samnijin.official@gmail.com** | **samnijin@outlook.com**
 
@@ -90,9 +90,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
-<!--   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>  -->
+  </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
@@ -116,12 +116,12 @@
   </a> -->
 </p>
 <p align="left">
-  <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin" alt="Sam Nijin GitHub stats" width="380px"  align="left"/></a>
+<!--   <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin" alt="Sam Nijin GitHub stats" width="480px"  align="left"/></a> -->
   </p>
 <p align="left">
-<a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="380px" align="left"/></a></p>
+<a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="480px" align="left"/></a></p>
 
-<p align="left" style="margin-inline: 35px;">
+<p align="left" style="  margin-inline: 35px;">
   <a href="https://github.com/SamNijin" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNijin&langs_count=10&title_color=0891b2&text_color=#000000&icon_color=0891b2&" alt="Top Languages" margin-top="10px" height="400px"/></a>
   </p>
 
