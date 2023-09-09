@@ -116,7 +116,7 @@
   </a> -->
 </p>
 <p align="left">
-<!--   <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin" alt="Sam Nijin GitHub stats" width="480px"  align="left"/></a> -->
+  <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin" alt="Sam Nijin GitHub stats" width="480px"  align="left"/></a>
   </p>
 <p align="left">
 <a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="480px" align="left"/></a></p>
