@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Covid Pneumonia Diagnosis of Lungs CT Scans using Transfer Learning and Ensemble Techniques**
 
-- 🌱 I’m currently learning **Power BI**
+<!--- 🌱 I’m currently learning **Power BI**-->
 
 - 💬 Ask me about **Python, React, MySQL, Opencv-Python, Pandas, SeaBorn, Machine Leaning, CNN, Data Analytics**
 
@@ -120,7 +120,7 @@
   </p>
 <p align="left">
 <a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="480px" align="left"/></a></p>
-
+<br><br>
 <p align="left" style="  margin-inline: 35px;">
   <a href="https://github.com/SamNijin" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNijin&langs_count=10&title_color=0891b2&text_color=#000000&icon_color=0891b2&" alt="Top Languages" margin-top="10px" height="400px"/></a>
   </p>
