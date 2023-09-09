@@ -119,7 +119,7 @@
   <a href="http://www.github.com/SamNijin"><img src="https://github-readme-stats.vercel.app/api?username=SamNijin" alt="Sam Nijin GitHub stats" width="380px"  align="left"/></a>
   </p>
 <p align="left">
-<a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="480px" align="left"/></a></p>
+<a href="http://www.github.com/SamNijin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNijin" width="380px" align="left"/></a></p>
 
 <p align="left" style="margin-inline: 35px;">
   <a href="https://github.com/SamNijin" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNijin&langs_count=10&title_color=0891b2&text_color=#000000&icon_color=0891b2&" alt="Top Languages" margin-top="10px" height="400px"/></a>
