@@ -1,7 +1,7 @@
 ![banner](https://github.com/SamNijin/SamNijin/blob/main/Sam-github%20banner.png)
 
 <h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
-<h3 align="center">Data Analytics | Deep Learning Intern @iNeuron.ai </h3>
+<h3 align="center">Data Analytics | Artificial Intelligence Research Intern @ZETPEAK </h3>
 <h5 align="center">Aspiring Artificial Intelligence Research Scientist | Researcher | CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
 
 
@@ -15,7 +15,7 @@
 
 <!--- 🌱 I’m currently learning **Power BI**-->
 
-- 💬 Ask me about **Python, React, MySQL, Opencv-Python, Pandas, SeaBorn, Machine Leaning, CNN, Data Analytics**
+- 💬 Ask me about **Python, React, SQL, Opencv-Python, Pandas, SeaBorn, Machine Leaning, CNN, Data Analytics**
 
 - 📫 Contact me on **samnijin.official@gmail.com** | **samnijin@outlook.com**
 
