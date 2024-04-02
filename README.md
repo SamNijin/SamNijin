@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hey there 👋, I am Sam Nijin S</h1>
-<h3 align="center">ETL Developer @unifi-data | Data Science </h3>
+<h3 align="center">Data Integration Developer @unifi-data | Data Science </h3>
 <h5 align="center">Aspiring Artificial Intelligence Research Scientist | Researcher | CSE'24 | Interested much on Image Processing and IoT to make things autonomous</h5>
 
 
